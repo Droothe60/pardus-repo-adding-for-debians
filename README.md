@@ -1,0 +1,1 @@
+# pardus-repo-adding-for-debians
